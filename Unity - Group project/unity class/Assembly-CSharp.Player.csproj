@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\SpawnTrigger.cs" />
+    <Compile Include="Assets\Scripts\EnemyDeath.cs" />
     <Compile Include="Assets\Scripts\EnemyAnimation.cs" />
     <Compile Include="Assets\Scripts\playerMovement.cs" />
     <Reference Include="UnityEngine">
