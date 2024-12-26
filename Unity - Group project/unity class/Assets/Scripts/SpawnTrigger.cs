@@ -26,7 +26,6 @@ public class SpawnTrigger : MonoBehaviour
             //spawns all mobs in their locations
             for (int i = 0; i < mobsToSpawn.Length; i++)
             {
-                print("maria is stupid");
                 Instantiate(mobsToSpawn[i], spawnAnchors[i]);
             }
             
